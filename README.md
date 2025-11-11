@@ -40,6 +40,6 @@ This video was created using Post2Video itself. We provided a Markdown file and 
 
 ## Get Started Today
 
-Visit Post2Video to create your first automated YouTube video. Transform your written content into engaging videos and reach more viewers without spending hours on production.
+[Visit Post2Video](https://www.post2video.com) to create your first automated YouTube video. Transform your written content into engaging videos and reach more viewers without spending hours on production.
 
 Thank you for watching this Post2Video demonstration.
